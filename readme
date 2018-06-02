@@ -1,0 +1,4 @@
+Open the file script.sh in tsp_openmp or word_count_openmp
+Change the directory in the first line of the script.sh to the directory where the HPCA folder is present. 
+"bash script.sh" in a terminal to run the codes. 
+The outputs will be saved in the output folder in both cases. (In case outputs already present, delete the files in the output folder and run the script again.)

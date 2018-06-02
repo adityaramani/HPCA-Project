@@ -1,0 +1,5 @@
+Minimum cost : 585
+Path Taken : 0 1 2 3 5 4 6 7 8 15 16 11 12 10 9 13 14 0 
+real	0m2.352s
+user	0m2.096s
+sys	0m0.256s
